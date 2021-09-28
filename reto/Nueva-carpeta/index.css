@@ -1,0 +1,10 @@
+body{
+    background-image:  url(bg-desktop.svg) ;
+    background-color: hsl(257, 40%, 49%);
+}
+.h2{
+margin-top: 50px;
+color: white;
+font-size: 30px;
+
+}

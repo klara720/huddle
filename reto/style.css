@@ -1,0 +1,63 @@
+body{
+    background-image:  url(bg-desktop.svg) ;
+    background-color: hsl(257, 40%, 49%);
+}
+
+
+.la{
+    
+    margin-top: 100px;
+    margin-left: 100px;
+    width: -56.1%;
+    
+}
+.logo{
+margin-top: -500;
+
+}
+.lo{
+border-radius:30px ;
+width: 100px;
+margin-left: 100px;
+
+}
+.titulo{
+    font-size: 15PX;
+margin-top:-500px ;
+margin-left: 900px;
+font-family: 'Space Mono', monospace;
+color: white;
+}
+
+.h2{
+font-size: 10px;
+margin-left: 900px;
+color: white;
+}
+.boton{
+    padding: 20px;
+    background-color:  hsl(300, 69%, 71%);
+margin-top: 50px;
+    margin-left: 900px;
+    border-radius: 30px;
+    margin-right: 230px;
+    
+}
+.buton{
+color: white;
+    margin-left: 50px;
+}
+.bo{
+    margin-top: 140px;
+margin-left: 1150px;
+
+}
+.twitter{
+margin-top: -58px;
+    margin-left: 1200px;
+}
+.istagram{
+    margin-top: -60px;
+margin-left: 1250px;
+
+}
